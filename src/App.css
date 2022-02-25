@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.inline {
+  display: inline;
+}
+
+.ma-4 {
+  margin: 16px;
+}
+
+.pa-4 {
+  padding: 16px;
+}
